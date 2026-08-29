@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm [M Vijesh] ⚡
 
-<!--
-**Apserty/Apserty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **B.Tech Information Technology** undergraduate at **Vellore Institute of Technology (VIT), Vellore**. I enjoy bridging the gap between engineering and real-world digital solutions.
 
-Here are some ideas to get you started:
+### 🛠️ What I Do:
+- 🌐 Developing responsive web apps and robust backends.
+- 🧠 Solving problems on LeetCode / HackerRank.
+- 👥 Actively participating in campus hackathons and technical clubs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Infrastructure:
+- **Languages:** C, C++, Java, Python, JavaScript
+- **Web Dev:** HTML/CSS, Tailwind, React.js, Express, MongoDB
+- **Tools:** Git, GitHub, VS Code, Postman
+
+📫 How to reach me: [vijeshm331@gmail.com]
