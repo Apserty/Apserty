@@ -92,7 +92,14 @@
 </div>
 
 </td></tr></table>
-<br />
+<br>
 
 ----
 
+<div align="center">
+  <h2>Advanced GitHub Telemetry</h2>
+  <p><i>System diagnostics generated via GitHub Actions</i></p>
+  ![](./profile-3d-contrib/profile-night-view.svg)
+</div>
+<br>
+----
