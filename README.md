@@ -1,3 +1,6 @@
+<a href="https://manulthanura.com"><img src="./herobg.png" align="center" style="width: 100%" alt="VIjesh" /></a>
+<br>
+
 <h1 align="center">Hola Vijesh Here</h1>
 <h3 align="center">Software Engineer & Developer. Dedicated to system design, optimization, and automation. Open to collaborating on innovative tech projects.</h3>
 
