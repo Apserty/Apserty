@@ -96,4 +96,3 @@
 
 ----
 
-<img width="988" height="1281" alt="image" src="https://github.com/user-attachments/assets/4b00fef9-56c0-462d-9dc3-c2d82ce463ea" />
