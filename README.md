@@ -99,7 +99,7 @@
 <div align="center">
   <h2>Advanced GitHub Telemetry</h2>
   
- ![](./profile-3d-contrib/profile-night-view.svg)
+ ![](./profile-3d-contrib/profile-gitblock.svg)
 </div>
 <br>
 ----
