@@ -1,4 +1,11 @@
 <h1 align="center">Hola , I'm M Vijesh</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=250&section=header&text=Hola%20Vijesh Here&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Information%20Technology%20%7C%20Software%20Engineering&descAlignY=55&descAlign=60&descSize=20" width="100%" />
+
+  <a href="https://github.com/BerrF35">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Information+Technology+Undergrad+%40+VIT+Vellore;Semi+Full-Stack+Developer+%7C+Python,+React,+FastAPI;Backend+Architecture+%26+Systems+Engineering;Building+Scalable,+Data-Driven+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center">Software Engineer & Developer. Dedicated to system design, optimization, and automation. Open to collaborating on innovative tech projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apserty&label=Profile%20views&color=0e75b6&style=flat" alt="apserty" /> </p>
