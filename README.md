@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apserty&label=Profile%20views&color=0e75b6&style=flat" alt="apserty" /> </p>
 
-- 📫 How to reach me **vijeshm331@gmail.com**
+-   Reach me @  **vijeshm331@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
