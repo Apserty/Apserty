@@ -98,8 +98,7 @@
 
 <div align="center">
   <h2>Advanced GitHub Telemetry</h2>
+  <img src="![](./profile-3d-contrib/profile-night-view.svg)">
 </div>
-![](./profile-3d-contrib/profile-night-view.svg)
-
 <br>
 ----
