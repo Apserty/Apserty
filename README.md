@@ -114,14 +114,9 @@
       <td width="440" valign="top">
         <img src="https://raw.githubusercontent.com/Apserty/Apserty/main/languages.svg" width="440" />
       </td>
-      <td width="440" valign="top">
-        <img src="https://raw.githubusercontent.com/Apserty/Apserty/main/achievements.svg" width="440" />
-      </td>
     </tr>
     <tr>
-      <td width="440" valign="top">
-        <img src="https://raw.githubusercontent.com/Apserty/Apserty/main/habits.svg" width="440" />
-      </td>
+
       <td width="440" valign="top">
         <a href="https://github.com/Apserty">
           <img src="https://github-readme-stats.vercel.app/api?username=Apserty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=06B6D4" width="440" />
