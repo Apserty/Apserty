@@ -94,14 +94,11 @@
 </td></tr></table>
 <br>
 
-----
-
 <div align="center">
   <h2>Advanced GitHub Telemetry</h2>
   
  ![](./profile-3d-contrib/profile-gitblock.svg)
 </div>
-<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=100&section=footer" width="100%" />
 </div>
