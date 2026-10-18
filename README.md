@@ -1,8 +1,7 @@
 <h1 align="center">Hola, Vijesh Here</h1>
 <h3 align="center">Software Engineer & Developer. Dedicated to system design, optimization, and automation. Open to collaborating on innovative tech projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apserty&label=Profile%20views&color=0e75b6&style=flat" alt="apserty" /> </p>
-
+<h2>Apserty</h2>
 -   Reach me @  **vijeshm331@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
