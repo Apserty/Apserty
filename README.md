@@ -112,6 +112,7 @@
 
  * [Speak Safe](https://berrf35.github.io/speaksafe/)
 
+ * [BizPilot AI](https://apserty.github.io/BizPilot/)
   
  
 
