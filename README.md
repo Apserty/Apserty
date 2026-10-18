@@ -2,7 +2,8 @@
 <h3 align="center">Software Engineer & Developer. Dedicated to system design, optimization, and automation. Open to collaborating on innovative tech projects.</h3>
 
 <h2>Apserty</h2>
--   Reach me @  **vijeshm331@gmail.com**
+
+-   Reach me @ **vijeshm331@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
