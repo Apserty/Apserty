@@ -103,12 +103,14 @@
 </div>
 <br>
 
+<div> 
   <h2 align="center">🛠️ Live Demos</h2>
   <br>
   <ul>
-  <li><a href="https://pagevirtualizer.vercel.app/" target="_blank">The Hyper-Visual Virtual Memory & Page Replacement Virtualizer</a></li>
-  <li><a href="https://berrf35.github.io/speaksafe/" target="_blank">Speak Safe</a></li>
+    <li><a href="https://pagevirtualizer.vercel.app/" target="_blank">The Hyper-Visual Virtual Memory & Page Replacement Virtualizer</a></li>
+    <li><a href="https://berrf35.github.io/speaksafe/" target="_blank">Speak Safe</a></li>
     
-</ul>
-<br>
+  </ul>
+  <br>
+</div>
 
