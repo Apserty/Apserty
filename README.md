@@ -106,13 +106,14 @@
 <div align="center">
   <h2>🛠️ Live Demos</h2>
   <br>
+</div>
 
-  [The Hyper-Visual Virtual Memory & Page Replacement Virtualizer](https://pagevirtualizer.vercel.app/)
+ * [The Hyper-Visual Virtual Memory & Page Replacement Virtualizer](https://pagevirtualizer.vercel.app/)
 
-  [Speak Safe](https://berrf35.github.io/speaksafe/)
+ * [Speak Safe](https://berrf35.github.io/speaksafe/)
 
   
-  <br>
-</div>
+ 
+
 
 
